@@ -138,3 +138,10 @@ button{
 .photo{
     height:150px;
 }
+.btn3{
+    margin-top:10px;
+    height:35px;
+    width:90px;
+    color:white;
+    background-color: blue;
+}
